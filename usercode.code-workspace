@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "xtbserver01:USER",
+			"uri": "isfs://xtbserver01/?ns=USER"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"objectscript.showExplorer": false
+	}
+}
