@@ -1,0 +1,7 @@
+{
+    "objectscript.conn": {
+        "server": "xtbserver01",
+        "ns": "USER",
+        "active": true
+    }
+}

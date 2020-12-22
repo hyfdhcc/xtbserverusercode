@@ -9,6 +9,22 @@
 		}
 	],
 	"settings": {
-		"objectscript.showExplorer": false
+		"objectscript.showExplorer": true
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+		{
+			"type": "objectscript",
+			"request": "launch",
+			"name": "ObjectScript Run current routine",
+			"program": "${file}"
+		},
+			{
+				"type": "objectscript",
+				"request": "launch",
+				"name": "XDebug"
+			}
+		]
 	}
 }
